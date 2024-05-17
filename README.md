@@ -1,5 +1,4 @@
 # MODULE4---Building-on-Avalanche---ETH-AVAX
-- DegenToken README
 
 ## Description:
 DegenToken is a Solidity smart contract that creates a simple ERC20 token known as "Degen" (DGN). This currency is intended for usage on a gaming platform, where users can earn, transfer, redeem, and burn tokens for various in-game items and rewards. The contract also offers functions for creating new tokens and verifying token balances.
