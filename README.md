@@ -17,8 +17,8 @@ DegenToken is a Solidity smart contract that creates a simple ERC20 token known 
 - OpenZeppelin Contracts: A library for secure smart contract development.
 
 ## Contract Details:
-- **Name:** DegenToken (Symbol: DGN)
-- **Decimals:** 0 (Tokens are whole numbers)
+- **Name:** Degen (Symbol: DGN)
+- **Decimals:** 18 (Tokens are whole numbers)
 - **Initial Distribution:** The contract owner can mint tokens initially.
 - **Shop Prices:** In-game items are priced in DGN tokens.
 
